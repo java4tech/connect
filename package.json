@@ -113,7 +113,7 @@
     "worker-loader": "^2.0.0"
   },
   "dependencies": {
-    "@babel/runtime": "^7.5.5",
+    "@babel/runtime": "^7.26.10",
     "events": "^3.0.0",
     "whatwg-fetch": "^3.0.0"
   },
